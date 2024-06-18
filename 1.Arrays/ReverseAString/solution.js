@@ -20,5 +20,5 @@ var reverseString = function(s) {
         j--;
 
     }
-    
+
 };
